@@ -1,8 +1,6 @@
 # 💪 Fit Fusion 💪
 ### Site de saude e bem estar 
 
-Link do Figma!
-https://www.figma.com/design/xMQze5azepjhRbDYiNuESn/Untitled?node-id=1-1948&t=VnEjAIdqdyaljp60-0
 
 ## Justificativa:
 Oferecemos tudo o que você precisa para alcançar seus objetivos de saúde e fitness. Nossa plataforma combina informações de especialistas em saúde, dicas de nutrição, programas de treinamento personalizados e muito mais. Seja você um entusiasta do fitness, um iniciante ou alguém em busca de uma transformação de estilo de vida, temos recursos para atender suas necessidades.
@@ -108,6 +106,18 @@ Gerente do Projeto
 </td>
 <td>
 Ass:
+
+
+
+
+
 </td>
 </tr>
 </table>
+ 
+Link do Figma!
+https://www.figma.com/design/xMQze5azepjhRbDYiNuESn/Untitled?node-id=1-1948&t=VnEjAIdqdyaljp60-0
+
+
+Identidade Visual:
+![Identidade Visual Pt 1](https://github.com/user-attachments/assets/925f6d55-0ea1-43d1-ab61-7460b1189b47)
