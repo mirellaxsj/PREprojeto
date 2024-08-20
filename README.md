@@ -116,8 +116,19 @@ Ass:
 </table>
  
 Link do Figma!
+
 https://www.figma.com/design/xMQze5azepjhRbDYiNuESn/Untitled?node-id=1-1948&t=VnEjAIdqdyaljp60-0
 
 
+
+
+
+
 Identidade Visual:
+
 ![Identidade Visual Pt 1](https://github.com/user-attachments/assets/925f6d55-0ea1-43d1-ab61-7460b1189b47)
+
+
+
+![Identidade Visual Pt 2](https://github.com/user-attachments/assets/b43b77a6-22ba-4681-8a28-c583f370110d)
+
