@@ -134,10 +134,9 @@ Identidade Visual:
 
 Wireframe: 
 
-![Captura de tela 2024-08-23 082601](https://github.com/user-attachments/assets/33c4b062-b60d-4b28-b17c-e1579540f4a3)
 
+![Captura de tela 2024-08-23 082714](https://github.com/user-attachments/assets/549085bf-b965-4698-b2fc-763356b42c37)
 
-![Captura de tela 2024-08-23 082329](https://github.com/user-attachments/assets/8521088a-5bec-49f1-8b74-2f4912975a03)
 
 
 
