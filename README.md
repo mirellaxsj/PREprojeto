@@ -132,3 +132,11 @@ Identidade Visual:
 
 ![Identidade Visual Pt 2](https://github.com/user-attachments/assets/b43b77a6-22ba-4681-8a28-c583f370110d)
 
+Wireframe: 
+
+![Captura de tela 2024-08-23 082329](https://github.com/user-attachments/assets/8521088a-5bec-49f1-8b74-2f4912975a03)
+
+![Captura de tela 2024-08-23 082245](https://github.com/user-attachments/assets/c1dfffc7-9e47-45ac-9a94-28496f77728f)
+
+
+
