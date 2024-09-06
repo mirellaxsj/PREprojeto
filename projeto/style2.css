@@ -1,0 +1,155 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=New+Amsterdam&display=swap');
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+/* HEADER */
+
+body {
+  background: black !important;
+}
+  
+header{
+  background-color: transparent !important;
+    align-items: center;
+    
+   
+}
+::-webkit-scrollbar {
+  width: 12px;
+  background-color: #313131;
+}
+    ::-webkit-scrollbar-thumb {
+      width: 13px;
+      background-color: #8C52FF;
+      border-radius: 8px;
+    }
+nav {
+    display: flex ;
+    justify-content: space-between;
+    align-items: center;
+   margin-inline: 100px;
+    padding-inline: 20px;
+    margin-top: 10px;
+}
+.logo img {
+  width: 240px;
+  height: 60px;
+  transition: 4s;
+}
+.logo img:hover{
+  transform: scale(1.2);
+}
+.nav-options {
+  display: flex;
+  justify-content: center;
+  gap: 45px;
+  align-items: center;
+  font-size: 18px;
+  font-family: 'poppins', sans-serif;
+  align-items: center;
+  color: rgba(255, 255, 255, 0.63);
+  
+}
+.nav-options p {
+  transition: 1s;
+}
+.nav-options p:hover {
+  transform: scale(1.2);
+}
+.itens-lateral {
+  display: flex;
+  font-size: 15px;
+  filter: invert(100%);
+  color: rgba(63, 61, 61, 0.548);
+}
+.itens-lateral img {
+  width: 20px;
+  height: 20px;
+}
+.search {
+  margin-inline: 20px;
+}
+.search img {
+  width: 15px;
+  height: 15px;
+}
+.social-midia {
+  
+  margin-inline: 20px;
+  
+}
+.social-midia img {
+  margin-inline: 5px;
+  width: 20px;
+  height: 20px;
+}
+main {
+    display: flex;
+    justify-content: center;
+}
+/* Login Form */
+
+.box-extern {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 400px;
+    height: 600px;
+    color: antiquewhite;
+    font-family: 'poppins', sans-serif;
+  }
+  .box-login {
+    display: flex;
+    width: 350px;
+    height: 38px;
+    justify-content: center;
+    align-items: center;
+    border: 2px solid rgba(255, 255, 255, 0.507);
+    border-radius: 8px;
+    font-size: 15px;
+    font-family: 'poppins', sans-serif;
+    margin-top: 15px;
+    gap: 5px;
+  }
+  
+  .login-g img {
+    width: 20px;
+    height: 20px;
+  }
+  .box-login img {
+    width: 20px;
+    height: 20px;
+    
+  }
+  .cadastro {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+  }
+  .cadastro button {
+    width: 300px;
+    height: 40px;
+    background-color: transparent !important;
+    color: white;
+    border: 2px solid    rgba(255, 255, 255, 0.507);
+    border-radius: 8px;
+    font-size: 15px;
+    font-family: 'poppins', sans-serif;
+    margin-top: 15px;
+    gap: 5px;
+}
+.sub-text {
+    display: flex;
+    width: 150px;
+    font-size: 12px;
+    flex-direction: column;
+    margin-top: 20px;
+}
+  
+  
